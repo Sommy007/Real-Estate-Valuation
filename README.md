@@ -1,4 +1,4 @@
-# PROJECT OVERVIEW
+## PROJECT OVERVIEW
 Real estate valuation is a critical aspect of the housing market, influencing property sales, investment decisions, taxation, and mortgage lending. Accurately estimating property values is often challenging because house prices are affected by multiple factors, including location, accessibility, property age, and nearby amenities. Traditional valuation methods typically rely on expert appraisals, which can be time-consuming, subjective, and influenced by market fluctuations.
 
 The value of a residential property is determined by several key characteristics, such as the transaction date, house age, distance to the nearest MRT station, number of nearby convenience stores, and geographic location (latitude and longitude). Since the relationship between these features and property prices is complex and nonlinear, conventional statistical methods may not always provide the most accurate predictions.
