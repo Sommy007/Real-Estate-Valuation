@@ -9,7 +9,7 @@ This project leverages machine learning techniques to predict residential proper
 This project is aimed at using supervised machine learning (regression) to predict the unit price of residential real estate using property characteristics, accessibility measures, and geographic location.
 
 ## Variables
-Target(Output): house price of unit area
+Target(Output): house price of unit area  
 Features (Input): X1 transaction date, X2 house age, X3 distance to the nearest MRT station, X4 number of convenience stores, X5 latitude, X6 longitude
 
 ## Data Source
