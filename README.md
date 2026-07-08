@@ -13,12 +13,11 @@ Target(Output): house price of unit area
 Features (Input): X1 transaction date, X2 house age, X3 distance to the nearest MRT station, X4 number of convenience stores, X5 latitude, X6 longitude
 
 ## Data Source
-This project uses a publicly available dataset that follows standard academic citation practices.
-
-Dataset Name: Real Estate Valuation
-Source: UCI Machine Learning Repository
-Authors: I-Cheng Yeh
-Year: 2018
+This project uses a publicly available dataset that follows standard academic citation practices.  
+Dataset Name: Real Estate Valuation  
+Source: UCI Machine Learning Repository  
+Authors: I-Cheng Yeh  
+Year: 2018  
 DOI / Reference: https://doi.org/10.24432/C5J30W
 
 ## Methodology
