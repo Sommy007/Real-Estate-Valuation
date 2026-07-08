@@ -31,6 +31,14 @@ The project follows a structured machine learning workflow:
 - Model Evaluation
 - Model Selection
 
+## Key Findings
+* Transaction date does not have strong influence on house price.
+* The highest-priced property transaction in the dataset occurred in April 2013, while the majority of property transactions were recorded in May 2013.
+* The majority of high-price observations are concentrated in a dense cluster around 121.53–121.55° longitude and 24.97–24.98° latitude. This spatial concentration suggests that houses in this specific area command a price premium due their proximity to the MRT station.
+* Prices decrease as house age increases up to about 20–25 years. This pattern suggests that the relationship between House Age and House Price is nonlinear.
+* The number of convenience stores exhibits a positive (direct) relationship with house price per unit area. Overall, properties located in areas with more convenience stores tend to have higher prices. However, the considerable variation in house prices at each convenience store count indicates that other factors, such as proximity to MRT stations, house age, and location, also contribute significantly to property values.
+* 
+
 
 ## Tech Stack
 Programming Language: Python
