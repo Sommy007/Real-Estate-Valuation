@@ -40,9 +40,9 @@ The project follows a structured machine learning workflow:
 
 
 ## Tech Stack
-Programming Language: Python
-Libraries: NumPy, Pandas, Matplotlib, Seaborn
-Machine Learning: Scikit-Learn
-Model Used: Linear Regression, Ridge Regression, Polynomial Regression, Support Vector Machine (SVR), RandomForest, XGBoost
+Programming Language: Python  
+Libraries: NumPy, Pandas, Matplotlib, Seaborn  
+Machine Learning: Scikit-Learn  
+Model Used: Linear Regression, Ridge Regression, Polynomial Regression, Support Vector Machine (SVR), RandomForest, XGBoost  
 Environment: Jupyter Notebook
 
